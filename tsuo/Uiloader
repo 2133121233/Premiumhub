@@ -74,7 +74,7 @@ end)
 UiLoader.Window = UiLoader.Fluent:CreateWindow(
     {
         Title = "Tsuo Hub",
-        SubTitle = "| tsuo trash",
+        SubTitle = "| tsuo sucks - Hyper Hub is better",
         TabWidth = 160,
         Size = UDim2.fromOffset(500, 290),
         Acrylic = false, -- The blur may be detectable, setting this to false disables blur entirely
