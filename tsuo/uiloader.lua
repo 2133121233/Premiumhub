@@ -1,3 +1,4 @@
+-- we sPeak music 😈
 print('loading Ui Loader');
 local UiLoader = {}
 UiLoader.Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))() 
@@ -74,7 +75,7 @@ end)
 UiLoader.Window = UiLoader.Fluent:CreateWindow(
     {
         Title = "Tsuo Hub",
-        SubTitle = "| tsuo sucks - Hyper Hub is better",
+        SubTitle = "Develope by vMh~ (discord.gg/tsuoscripts)",
         TabWidth = 160,
         Size = UDim2.fromOffset(500, 290),
         Acrylic = false, -- The blur may be detectable, setting this to false disables blur entirely
