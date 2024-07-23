@@ -1,0 +1,3 @@
+getgenv().key = "xfeinisgay"--Default Key
+getgenv().discordid = "discord id here"--Dont put nothing here
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2133121233/Premiumhub/main/Binanahub/BypassBanana.txt))()
